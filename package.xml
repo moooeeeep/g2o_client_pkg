@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+
+	<name>g2o_client_pkg</name>
+	<version>3.0.0</version>
+
+	<buildtool_depend>cmake</buildtool_depend>
+
+	<depend>libg2o</depend>
+
+	<export>
+		<build_type>cmake</build_type>
+	</export>
+
+</package>
