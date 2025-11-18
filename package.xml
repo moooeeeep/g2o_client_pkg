@@ -1,19 +1,11 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format2.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="2">
-
 	<name>g2o_client_pkg</name>
 	<description>Hello World</description>
 	<version>3.0.0</version>
 	<license>BSD</license>
 	<maintainer email="ros-orphaned-packages@googlegroups.com">Unmaintained see http://wiki.ros.org/MaintenanceGuide#Claiming_Maintainership</maintainer>
-
 	<buildtool_depend>cmake</buildtool_depend>
-
 	<depend>libg2o</depend>
-
-	<export>
-		<build_type>cmake</build_type>
-	</export>
-
 </package>
